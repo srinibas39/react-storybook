@@ -3,7 +3,7 @@ import { Button } from "./Button"
 
 
 export default {
-    title: "Button",
+    title: "Design System/Form/Button",
     component: Button
 }
 
